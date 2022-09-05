@@ -186,7 +186,7 @@ enum{
 #define SDRAM_CS_SIZE			0x7fffffffUL	/* FIXME: implement a function for cs size for each platform */
 
 /* Tune internal training params values */
-#define TUNE_TRAINING_PARAMS_CK_DELAY		160
+#define TUNE_TRAINING_PARAMS_CK_DELAY		190
 
 #define TUNE_TRAINING_PARAMS_PHYREG3VAL		0xA
 #define TUNE_TRAINING_PARAMS_PRI_DATA		123
